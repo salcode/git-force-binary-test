@@ -35,6 +35,9 @@
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
 
+# track this file .gitattributes (i.e. do NOT ignore it)
+!.gitattributes
+
 # ignore all files that start with ~
 ~*
 
